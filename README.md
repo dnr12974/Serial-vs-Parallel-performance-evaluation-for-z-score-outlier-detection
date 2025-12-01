@@ -72,6 +72,8 @@ This creates `performance_graphs.png` with speedup and efficiency visualizations
 ## Optional: Control Thread Count
 
 export OMP_NUM_THREADS=4
+
+```
 ./outlier_detection dataset.csv
 ```
 

@@ -43,6 +43,7 @@ This creates `performance_graphs.png` with speedup and efficiency visualizations
 ## Optional: Control Thread Count
 
 export OMP_NUM_THREADS=4
+
 ./outlier_detection dataset.csv
 
 text
@@ -58,7 +59,7 @@ text
 
 ## Tested Datasets
 
-- ExcelBIA 5M Sales Records ✓
+- ExcelBIA 5M Sales Records 
 - UNSW-NB15 Network Traffic (2.5M rows)
 - MNIST4OD (17K rows)
 

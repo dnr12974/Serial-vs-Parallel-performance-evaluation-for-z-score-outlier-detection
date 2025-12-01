@@ -1,0 +1,9 @@
+# Ignore large raw datasets
+*.csv
+
+# But keep small aggregated benchmark results
+!benchmark_results.csv
+
+# Ignore compiled binaries
+*.exe
+outlier_detection

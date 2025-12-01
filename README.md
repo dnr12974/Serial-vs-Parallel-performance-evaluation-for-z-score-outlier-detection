@@ -95,7 +95,7 @@ export OMP_NUM_THREADS=4
 ---
 ## Visualization Output
 
-![Performance Graphs](performance_graphs.png)
+![Performance Graphs](final_performance.jpg)
 
 The Python script plots:
 - Serial vs Parallel execution time

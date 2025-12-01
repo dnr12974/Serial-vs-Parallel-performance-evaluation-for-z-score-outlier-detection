@@ -93,5 +93,17 @@ export OMP_NUM_THREADS=4
 - MNIST4OD (17K rows)
 
 ---
+## Visualization Output
+
+![Performance Graphs](performance_graphs.png)
+
+The Python script plots:
+- Serial vs Parallel execution time
+- Speedup vs Threads
+- Efficiency vs Threads
+  
+---
+
+
 
 **Note:** Parallel speedup is only visible with large datasets (1M+ rows). Small datasets show overhead effects.
